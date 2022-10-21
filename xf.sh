@@ -2,7 +2,7 @@
 ##
 
 # Set ARG
-UUID=4c864979-559a-4936-9c44-7be1049ca778
+UUID=4c864979-559a-4936-9c44-7be1049ca768
 #ARCH="64"
 cat <<EOF >/etc/cctv/config.json
 {
